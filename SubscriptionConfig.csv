@@ -1,0 +1,3 @@
+Report_Name,Site,View_URL,Save_File,File_Type,Email_Subject,Email_Body,Attach_Report,Embed_In_Body,Email_To,Email_CC,Recurrence,Next_Run_Date
+My Cool Tableau Report,coolsite,CoolInsights/YoYComparison,C:\Users\Administrator\Documents\Tableau Reports\CoolInsights,pdf,Tableau Cool Report Delivery,Enjoy Your Report,Yes,No,georgecalvo@georgecalvo.com,george.r.calvo@gmail.com,Daily,1/30/2018 0:00
+My Cooler Tableau Report,coolsite,CoolInsights/YoYComparison?Dept=Finance,C:\Users\Administrator\Documents\Tableau Reports\CoolInsights,png,Tableau Cooler Report Delivery,"<strong> I can put html here </strong> Also, your report is embeded in the body of the email :)",Yes,Yes,george.r.calvo@gmail.com,georgecalvo@georgecalvo.com,Weekly,2/6/2018 0:00
